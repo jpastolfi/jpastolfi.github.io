@@ -1,10 +1,18 @@
 body {
-    background-color: rgb(255,255,153);
+    background-color: #3C6255;
+    color: #EAE7B1;
+    text-align: none;
+}
+
+.social-media {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: inline;
 }
 
 #nome {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: 'Roboto Slab', serif;
   text-align: center;
   margin-top: 0;
 }
