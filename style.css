@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255,255,153);
+}
+
+#nome {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  margin-top: 0;
+}
+
+#aboutme {
+  font-style: italic;
+}
+
+#foto {
+  border-radius: 20%;
+}
