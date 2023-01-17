@@ -16,3 +16,7 @@ body {
 #foto {
   border-radius: 20%;
 }
+
+.skills {
+  font-style: italic;
+}
