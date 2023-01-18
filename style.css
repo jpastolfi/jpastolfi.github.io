@@ -3,6 +3,10 @@ body {
     color: #fff;
 }
 
+header {
+  text-align: center;
+}
+
 #bio {
   width: 20%;
   text-align: center;
@@ -13,12 +17,14 @@ body {
   width: 40px;
   height: 40px;
   display: inline;
+  display: inline-block;
 }
 
 #nome {
   font-family: 'Roboto Slab', serif;
   text-align: center;
   margin-top: 0;
+  display: inline-block;
 }
 
 #aboutme {
