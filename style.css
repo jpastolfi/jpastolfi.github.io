@@ -1,11 +1,14 @@
 body {
-  margin: 0
+  margin: 0;
 }
 
 li:hover {
   font-weight: bold;
 }
 
+ul {
+  list-style:none;
+}
 #intro {
   background-color: #F0F5F9;
   padding: 10px;
@@ -33,8 +36,6 @@ li:hover {
   height: 50px;
   padding-right: 250px;
 }
-
-
 
 #hardskills {
   background-color: #C9D6DF;
