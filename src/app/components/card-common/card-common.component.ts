@@ -4,12 +4,11 @@ import { Component, Input } from '@angular/core';
   selector: 'app-card-link',
   standalone: true,
   imports: [],
-  templateUrl: './card-link.component.html',
-  styleUrl: './card-link.component.scss'
+  templateUrl: './card-common.component.html',
+  styleUrl: './card-common.component.scss'
 })
 export class CardLinkComponent {
  @Input() title!: string;
- @Input() imgSrc!: string;
- @Input() alternativeText!: string;
- @Input() link!: string;
+ @Input() subtitle!: string;
+ @Input() bgColor!: string;
 }
